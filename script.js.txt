@@ -1,0 +1,6 @@
+// script.js
+
+// Παράδειγμα: Εμφάνιση ενός μηνύματος όταν φορτώνεται η σελίδα
+document.addEventListener('DOMContentLoaded', (event) => {
+    console.log('Η σελίδα έχει φορτωθεί!');
+});
